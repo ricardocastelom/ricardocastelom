@@ -10,7 +10,7 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocastelom/)
 [![Consulting RIOM](https://img.shields.io/badge/Consulting%20RIOM-S.A.S.-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white)](https://consultingriom.com/)
-[![Soluciones Para Ti](https://img.shields.io/badge/Soluciones%20Para%20Ti-00A859?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
+[![SolucionesParaTi](https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
 [![BioAdmin](https://img.shields.io/badge/BioAdmin-Digital%20Business%20Card-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/bioadmin-info.php)
 [![GitHub](https://img.shields.io/badge/GitHub-ricardincas1987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardincas1987)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B593987241775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593987241775)
@@ -197,9 +197,9 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ---
 
-## Soluciones Para Ti
+## SolucionesParaTi
 
-Soluciones Para Ti es una plataforma de servicios empresariales orientada a apoyar emprendedores, pymes y organizaciones que buscan profesionalizar, digitalizar y escalar su operación.
+[SolucionesParaTi](https://solucionesparati.ec/) es una plataforma de servicios empresariales orientada a apoyar emprendedores, pymes y organizaciones que buscan profesionalizar, digitalizar y escalar su operación.
 
 ### Verticales de servicio
 
@@ -319,9 +319,15 @@ SaaS empresarial para gestión integral de centros infantiles.
 
 ---
 
-## 🌐 Soluciones Para Ti
+## 🌐 SolucionesParaTi
 
 Ecosistema digital de servicios empresariales para pymes y organizaciones.
+
+### Enlace
+
+https://solucionesparati.ec/
+
+### Áreas principales
 
 - Servicios contables
 - Marketing digital
@@ -413,9 +419,9 @@ Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardincas1987&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ricardincas1987&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardincas1987&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardincas1987&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -455,37 +461,3 @@ enterprise-architecture-lab
 fintech-payments-lab
 business-architecture-playbook
 saas-product-blueprint
-```
-
----
-
-# 💬 Frase profesional
-
-> Convierto estrategia digital en resultados medibles mediante tecnología, innovación, procesos, inteligencia artificial y visión empresarial.
-
----
-
-# 📫 Conecta conmigo
-
-<div align="center">
-
-### Construyendo soluciones digitales con visión estratégica, arquitectura y alto impacto empresarial.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocastelom/)
-[![Consulting RIOM](https://img.shields.io/badge/Consulting%20RIOM-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white)](https://consultingriom.com/)
-[![Soluciones Para Ti](https://img.shields.io/badge/Soluciones%20Para%20Ti-00A859?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
-[![BioAdmin](https://img.shields.io/badge/BioAdmin-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/bioadmin-info.php)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Business transformation • AI • Architecture • Innovation
-
-### Strategy into execution. Technology into impact. Innovation into growth.
-
-</div>
