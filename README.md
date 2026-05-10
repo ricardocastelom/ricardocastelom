@@ -8,12 +8,24 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocastelom/)
-[![Consulting RIOM](https://img.shields.io/badge/Consulting%20RIOM-S.A.S.-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white)](https://consultingriom.com/)
-[![SolucionesParaTi](https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
-[![BioAdmin](https://img.shields.io/badge/BioAdmin-Digital%20Business%20Card-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/bioadmin-info.php)
-[![GitHub](https://img.shields.io/badge/GitHub-ricardincas1987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardincas1987)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B593987241775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593987241775)
+<a href="https://www.linkedin.com/in/ricardocastelom/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://consultingriom.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Consulting%20RIOM-S.A.S.-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://solucionesparati.ec/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://solucionesparati.ec/bioadmin-info.php" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/BioAdmin-Digital%20Business%20Card-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/ricardincas1987" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-ricardincas1987-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://wa.me/593987241775" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/WhatsApp-%2B593987241775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 </div>
 
@@ -172,7 +184,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## Consulting RIOM S.A.S.
 
-[Consulting RIOM S.A.S.](https://consultingriom.com/) es una firma de consultoría orientada a modernización empresarial, transformación digital, innovación, arquitectura de negocio, tecnología, automatización e inteligencia artificial aplicada.
+<a href="https://consultingriom.com/" target="_blank" rel="noopener noreferrer">Consulting RIOM S.A.S.</a> es una firma de consultoría orientada a modernización empresarial, transformación digital, innovación, arquitectura de negocio, tecnología, automatización e inteligencia artificial aplicada.
 
 ### RIOM representa
 
@@ -199,7 +211,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## SolucionesParaTi
 
-[SolucionesParaTi](https://solucionesparati.ec/) es una plataforma de servicios empresariales orientada a apoyar emprendedores, pymes y organizaciones que buscan profesionalizar, digitalizar y escalar su operación.
+<a href="https://solucionesparati.ec/" target="_blank" rel="noopener noreferrer">SolucionesParaTi</a> es una plataforma de servicios empresariales orientada a apoyar emprendedores, pymes y organizaciones que buscan profesionalizar, digitalizar y escalar su operación.
 
 ### Verticales de servicio
 
@@ -219,7 +231,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## BioAdmin
 
-[BioAdmin](https://solucionesparati.ec/bioadmin-info.php) es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
+<a href="https://solucionesparati.ec/bioadmin-info.php" target="_blank" rel="noopener noreferrer">BioAdmin</a> es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
 
 ### Propósito
 
@@ -325,7 +337,7 @@ Ecosistema digital de servicios empresariales para pymes y organizaciones.
 
 ### Enlace
 
-https://solucionesparati.ec/
+<a href="https://solucionesparati.ec/" target="_blank" rel="noopener noreferrer">https://solucionesparati.ec/</a>
 
 ### Áreas principales
 
@@ -353,7 +365,7 @@ Plataforma de tarjeta digital empresarial y profesional orientada a mejorar la p
 
 ### Enlace
 
-https://solucionesparati.ec/bioadmin-info.php
+<a href="https://solucionesparati.ec/bioadmin-info.php" target="_blank" rel="noopener noreferrer">https://solucionesparati.ec/bioadmin-info.php</a>
 
 ---
 
@@ -419,9 +431,28 @@ Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ricardincas1987&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardincas1987&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+## Profile
+
+<a href="https://github.com/ricardincas1987?tab=repositories" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Public%20repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+## Activity
+
+<a href="https://github.com/ricardincas1987?tab=overview" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub%20activity-View%20profile-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -431,7 +462,9 @@ Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y 
 
 <div align="center">
 
-[![Ricardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardincas1987&theme=tokyo-night&hide_border=true)](https://github.com/ricardincas1987)
+<a href="https://github.com/ricardincas1987" target="_blank" rel="noopener noreferrer">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardincas1987&theme=tokyo-night&hide_border=true" alt="Ricardo Castelo GitHub contribution graph" />
+</a>
 
 </div>
 
@@ -441,7 +474,9 @@ Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricardincas1987&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+<img src="https://github-profile-trophy.vercel.app/?username=ricardincas1987&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
+</a>
 
 </div>
 
@@ -461,3 +496,45 @@ enterprise-architecture-lab
 fintech-payments-lab
 business-architecture-playbook
 saas-product-blueprint
+```
+
+---
+
+# 💬 Frase profesional
+
+> Convierto estrategia digital en resultados medibles mediante tecnología, innovación, procesos, inteligencia artificial y visión empresarial.
+
+---
+
+# 📫 Conecta conmigo
+
+<div align="center">
+
+### Construyendo soluciones digitales con visión estratégica, arquitectura y alto impacto empresarial.
+
+<br>
+
+<a href="https://www.linkedin.com/in/ricardocastelom/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://consultingriom.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Consulting%20RIOM-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://solucionesparati.ec/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://solucionesparati.ec/bioadmin-info.php" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/BioAdmin-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Business transformation • AI • Architecture • Innovation
+
+### Strategy into execution. Technology into impact. Innovation into growth.
+
+</div>
