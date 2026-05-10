@@ -1,132 +1,49 @@
-# 👋 Hola, soy Ricardo Vinicio Castelo Mosquera
+<div align="center">
+
+# 👋 Ricardo Vinicio Castelo Mosquera
 
 ## Senior consultant | digital transformation | business architecture | product innovation | AI-driven solutions
 
-Soy consultor senior con más de 16 años de experiencia en banca, fintech, pagos digitales, transformación digital, arquitectura empresarial e innovación tecnológica.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=950&lines=Digital+Transformation+Strategist;Enterprise+Architecture+Consultant;Fintech+%26+Payments+Specialist;AI-Driven+Business+Solutions;Technology+%2B+Business+%2B+Innovation;Modernizaci%C3%B3n+empresarial+con+impacto+medible" alt="Typing SVG" />
 
-Ayudo a empresas a modernizarse integrando estrategia, procesos, tecnología, datos e inteligencia artificial para generar crecimiento, eficiencia operativa y sostenibilidad.
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocastelom/)
+[![Website](https://img.shields.io/badge/Web-Soluciones%20Para%20Ti-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
+[![GitHub](https://img.shields.io/badge/GitHub-ricardincas1987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardincas1987)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B593987241775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593987241775)
 
-## 🚀 En qué puedo aportar
-
-- Transformación digital y modernización empresarial
-- Arquitectura de negocio y arquitectura tecnológica
-- Gobierno de TI, procesos, riesgos y mejora continua
-- Innovación, producto digital, MVPs y escalamiento
-- Fintech, pagos digitales, wallets y canales digitales
-- Automatización, inteligencia artificial y eficiencia operativa
-- Consultoría estratégica para empresas, pymes y proyectos digitales
+</div>
 
 ---
 
-## 🧠 Experiencia destacada
+# 🚀 Sobre mí
 
-- Creación y evolución de canales digitales en el sector financiero
-- Participación en proyectos de billeteras digitales y pagos electrónicos
-- Optimización de procesos tecnológicos y transaccionales
-- Liderazgo de equipos multidisciplinarios de producto, tecnología y QA
-- Implementación de marcos ágiles, gobierno TI y gestión de proyectos
-- Desarrollo de soluciones empresariales, SaaS, plataformas web y apps móviles
+Soy consultor senior en transformación digital, arquitectura empresarial, innovación tecnológica, producto digital y soluciones impulsadas por inteligencia artificial.
 
----
+Cuento con más de 16 años de experiencia en banca, fintech, medios de pago, canales digitales, consultoría empresarial, modernización tecnológica, gobierno de TI y desarrollo de soluciones digitales.
 
-## 🏢 Ecosistema empresarial
-
-### Consulting RIOM S.A.S.
-
-RIOM significa:
-
-- **Responsabilidad**
-- **Innovación**
-- **Organización**
-- **Mejora**
-
-Desde RIOM Consulting impulsamos la modernización empresarial con visión estratégica, tecnológica y sostenible.
-
-### Soluciones Para Ti
-
-Plataforma de servicios enfocada en:
-
-- Outsourcing contable
-- Transformación digital
-- Marketing digital
-- Academia, cursos y talleres
-- Automatización e inteligencia artificial
+Mi trabajo se enfoca en conectar estrategia, procesos, tecnología, datos e inteligencia artificial para transformar ideas en resultados medibles.
 
 ---
 
-## 🛠️ Stack y herramientas
+# 🎯 Propuesta de valor
 
-### Estrategia, producto y gestión
+Ayudo a empresas, pymes, startups y organizaciones en crecimiento a:
 
-![Agile](https://img.shields.io/badge/Agile-Strategy-blue)
-![Scrum](https://img.shields.io/badge/Scrum-Master-success)
-![SAFe](https://img.shields.io/badge/SAFe-5%20SSM-purple)
-![Product](https://img.shields.io/badge/Product-Management-orange)
-![Business Architecture](https://img.shields.io/badge/Business-Architecture-darkblue)
-
-### Tecnología y desarrollo
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Apps-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![NestJS](https://img.shields.io/badge/NestJS-API-red)
-![Next.js](https://img.shields.io/badge/Next.js-Web-black)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-
-### Datos, automatización e IA
-
-![AI](https://img.shields.io/badge/AI-Business%20Innovation-brightgreen)
-![Automation](https://img.shields.io/badge/Automation-Processes-orange)
-![Analytics](https://img.shields.io/badge/Analytics-Decision%20Making-lightgrey)
-![Cloud](https://img.shields.io/badge/Cloud-Architecture-blueviolet)
+- Modernizar sus procesos de negocio.
+- Digitalizar operaciones críticas.
+- Diseñar productos digitales escalables.
+- Implementar soluciones tecnológicas con visión empresarial.
+- Automatizar procesos con inteligencia artificial.
+- Mejorar eficiencia operativa y experiencia del cliente.
+- Construir ecosistemas digitales sostenibles.
+- Conectar estrategia, tecnología y ejecución.
+- Convertir iniciativas digitales en resultados de negocio.
 
 ---
 
-## 📌 Proyectos estratégicos
+# 🧠 Mi enfoque profesional
 
-### Colonial Mobility
-
-Plataforma tipo ride-hailing para cooperativa de taxis.
-
-**Stack previsto:**
-
-- Backend: NestJS
-- Base de datos: PostgreSQL + PostGIS
-- Cache: Redis
-- Mobile: Flutter
-- Web: Next.js
-- Infraestructura: Docker
-
-### EduFacil
-
-SaaS empresarial para la gestión integral de centros infantiles.
-
-Incluye:
-
-- App móvil Android/iOS
-- Panel administrativo web
-- Facturación electrónica Ecuador
-- Pasarela de pagos
-- Notificaciones push
-- Analítica avanzada
-- Arquitectura multi-tenant
-
-### Soluciones Para Ti
-
-Ecosistema digital de servicios empresariales para pymes, emprendedores y organizaciones que buscan profesionalizar su operación.
-
----
-
-## 📈 Mi enfoque
-
-```mermaid
-flowchart LR
-    A[Estrategia] --> B[Procesos]
-    B --> C[Tecnología]
-    C --> D[Datos]
-    D --> E[Inteligencia Artificial]
-    E --> F[Resultados de negocio]
+```text
+Estrategia → Procesos → Tecnología → Datos → Inteligencia artificial → Resultados de negocio
