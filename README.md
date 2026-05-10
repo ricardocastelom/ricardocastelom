@@ -9,7 +9,9 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocastelom/)
-[![Website](https://img.shields.io/badge/Soluciones%20Para%20Ti-00A859?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
+[![Consulting RIOM](https://img.shields.io/badge/Consulting%20RIOM-S.A.S.-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white)](https://consultingriom.com/)
+[![Soluciones Para Ti](https://img.shields.io/badge/Soluciones%20Para%20Ti-00A859?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
+[![BioAdmin](https://img.shields.io/badge/BioAdmin-Digital%20Business%20Card-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/bioadmin-info.php)
 [![GitHub](https://img.shields.io/badge/GitHub-ricardincas1987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardincas1987)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B593987241775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593987241775)
 
@@ -170,14 +172,14 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## Consulting RIOM S.A.S.
 
-**RIOM** representa:
+[Consulting RIOM S.A.S.](https://consultingriom.com/) es una firma de consultoría orientada a modernización empresarial, transformación digital, innovación, arquitectura de negocio, tecnología, automatización e inteligencia artificial aplicada.
 
-- **Responsabilidad**
-- **Innovación**
-- **Organización**
-- **Mejora**
+### RIOM representa
 
-RIOM Consulting impulsa la modernización empresarial integrando personas, procesos, tecnología, datos e inteligencia artificial para construir organizaciones más eficientes, digitales, ordenadas y sostenibles.
+- Responsabilidad
+- Innovación
+- Organización
+- Mejora
 
 ### Enfoque de RIOM
 
@@ -212,6 +214,29 @@ Soluciones Para Ti es una plataforma de servicios empresariales orientada a apoy
 - Aulas virtuales
 - Consultoría para pymes
 - Soluciones digitales para crecimiento
+
+---
+
+## BioAdmin
+
+[BioAdmin](https://solucionesparati.ec/bioadmin-info.php) es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
+
+### Propósito
+
+Facilitar que profesionales, emprendedores, consultores y empresas compartan su información de contacto, servicios, enlaces, redes sociales y canales digitales desde una experiencia moderna, centralizada y fácil de actualizar.
+
+### Enfoque
+
+- Tarjeta de presentación digital
+- Perfil profesional centralizado
+- Enlaces comerciales y corporativos
+- Presencia digital para emprendedores
+- Contacto rápido por WhatsApp
+- Acceso a redes sociales
+- Experiencia mobile-first
+- Digitalización de networking
+- Imagen profesional moderna
+- Herramienta comercial para pymes y consultores
 
 ---
 
@@ -263,16 +288,6 @@ Soluciones Para Ti es una plataforma de servicios empresariales orientada a apoy
 ![BI](https://img.shields.io/badge/BI-Business%20Intelligence-success)
 ![APIs](https://img.shields.io/badge/APIs-Integrations-blue)
 ![Data](https://img.shields.io/badge/Data-Driven%20Business-orange)
-![Workflow](https://img.shields.io/badge/Workflow-Automation-green)
-![Dashboards](https://img.shields.io/badge/Dashboards-Executive%20Analytics-blue)
-
----
-
-## Skill icons
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,flutter,postgres,docker,git,github,html,css,vscode" alt="Skill icons" />
-</p>
 
 ---
 
@@ -280,173 +295,96 @@ Soluciones Para Ti es una plataforma de servicios empresariales orientada a apoy
 
 ## 🚕 Colonial Mobility
 
-Plataforma tipo ride-hailing para cooperativa de taxis, orientada a modernizar la operación de movilidad urbana y conectar pasajeros, conductores, administración y operación.
-
-### Objetivo
-
-Crear una solución digital escalable que permita gestionar viajes, conductores, pasajeros, geolocalización, operación administrativa y analítica del servicio.
-
-### Stack previsto
+Plataforma tipo ride-hailing para cooperativa de taxis.
 
 - Backend: NestJS
-- Base de datos: PostgreSQL + PostGIS
-- Cache: Redis
-- Mobile: Flutter
-- Web: Next.js
-- Infraestructura: Docker
-
-### Componentes principales
-
-- App móvil para pasajeros
-- App móvil para conductores
-- Portal administrativo
-- Gestión de viajes
-- Geolocalización
-- Tarifas
-- Reportes operativos
-- Seguridad operativa
-- Analítica de viajes
-- Escalabilidad por módulos
-- Gestión de usuarios
-- Administración de flota
-- Base para pagos digitales
+- PostgreSQL + PostGIS
+- Redis
+- Flutter
+- Next.js
+- Docker
 
 ---
 
 ## 🎓 EduFacil
 
-SaaS empresarial para la gestión integral de centros infantiles, orientado a centralizar la operación administrativa, académica, financiera y comunicacional.
+SaaS empresarial para gestión integral de centros infantiles.
 
-### Objetivo
-
-Construir una plataforma SaaS multi-tenant para centros infantiles que permita mejorar la gestión, comunicación, control operativo y experiencia de padres, administradores y docentes.
-
-### Funcionalidades
-
-- App móvil Android/iOS
-- Panel administrativo web
-- Matrículas
-- Gestión de alumnos
-- Gestión de representantes
-- Agenda de actividades
-- Comunicación con padres
-- Facturación electrónica Ecuador
-- Pasarela de pagos
-- Notificaciones push
-- Modo offline
-- Analítica avanzada
-- Arquitectura multi-tenant
-- Gestión documental
-- Control administrativo
-- Reportería ejecutiva
-- Control de pagos
-- Gestión de asistencia
-- Módulos configurables por institución
+- Multi-tenant
+- Facturación electrónica
+- App móvil
+- Panel administrativo
+- Analítica
+- Pagos digitales
 
 ---
 
 ## 🌐 Soluciones Para Ti
 
-Ecosistema digital de servicios empresariales para pymes, emprendedores y organizaciones que buscan profesionalizar su operación.
-
-### Áreas principales
+Ecosistema digital de servicios empresariales para pymes y organizaciones.
 
 - Servicios contables
-- Transformación digital
 - Marketing digital
-- Capacitación
-- Automatización con IA
-- Sitios web
+- Transformación digital
+- IA empresarial
 - Tiendas virtuales
 - Aulas virtuales
-- Consultoría empresarial
-- Soluciones digitales para crecimiento
-- Profesionalización de procesos
-- Herramientas digitales para emprendedores
+
+---
+
+## 💳 BioAdmin
+
+Plataforma de tarjeta digital empresarial y profesional orientada a mejorar la presencia digital, networking y conexión comercial.
+
+### Componentes
+
+- Tarjeta digital personalizada
+- Perfil profesional
+- Enlaces sociales
+- WhatsApp integrado
+- Experiencia responsive
+- Networking digital
+
+### Enlace
+
+https://solucionesparati.ec/bioadmin-info.php
 
 ---
 
 ## 🧩 Digital transformation framework
 
-Framework de consultoría para diagnosticar, priorizar e implementar iniciativas de transformación digital.
-
-### Ejes principales
+Framework de consultoría para transformación digital.
 
 - Diagnóstico empresarial
-- Mapa de procesos
-- Identificación de brechas
-- Priorización de iniciativas
-- Roadmap tecnológico
-- Indicadores de impacto
-- Gestión del cambio
-- Mejora continua
-- Gobierno de implementación
-- Medición de resultados
+- Roadmaps
 - Arquitectura objetivo
-- Modelo operativo futuro
+- Gobierno
+- KPIs
+- Mejora continua
 
 ---
 
 ## 🤖 AI business automation
 
-Laboratorio de soluciones para automatización empresarial con inteligencia artificial.
-
-### Casos de uso
+Laboratorio de automatización empresarial con inteligencia artificial.
 
 - Automatización documental
-- Asistentes empresariales
-- Análisis de datos
-- Generación de reportes
-- Optimización de procesos
-- Atención al cliente
-- Marketing asistido por IA
-- Clasificación de información
-- Generación de contenido
-- Productividad ejecutiva
-- Automatización de flujos internos
-- Apoyo en toma de decisiones
+- IA empresarial
+- Dashboards
+- Productividad
+- Procesos inteligentes
 
 ---
 
 ## 🏦 Fintech payments lab
 
-Espacio de análisis, diseño y construcción de soluciones relacionadas con pagos digitales, canales financieros y ecosistemas fintech.
+Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y ecosistemas fintech.
 
-### Áreas de trabajo
-
+- Wallets
 - Pagos digitales
-- Billeteras electrónicas
-- Canales digitales
-- Integraciones transaccionales
-- Experiencia de usuario financiera
-- Seguridad operativa
-- Procesos de onboarding
-- Analítica transaccional
-- Modelos B2B
-- Modelos B2B2C
-- Pagos embebidos
-- Ecosistemas financieros digitales
-
----
-
-## 🏗️ Enterprise architecture lab
-
-Repositorio conceptual y práctico para arquitectura empresarial, modernización tecnológica y gobierno de TI.
-
-### Ejes
-
-- Arquitectura de negocio
-- Arquitectura de aplicaciones
-- Arquitectura de datos
-- Arquitectura tecnológica
-- Gobierno de TI
-- Riesgo operativo
-- Roadmaps de modernización
-- Gestión de capacidades empresariales
-- Modelos de referencia
-- Arquitecturas objetivo
-- Principios de diseño tecnológico
-- Gestión de deuda técnica
+- APIs
+- Integraciones
+- Procesos transaccionales
 
 ---
 
@@ -468,122 +406,6 @@ Repositorio conceptual y práctico para arquitectura empresarial, modernización
 ✅ Business architecture  
 ✅ Customer experience  
 ✅ Technology strategy  
-✅ Data-driven decision making  
-✅ Innovation management  
-✅ Digital channels  
-✅ Enterprise platforms  
-✅ Technology roadmaps  
-✅ Agile delivery  
-✅ Product discovery  
-✅ Executive consulting  
-
----
-
-# 📊 Executive value map
-
-<table>
-<tr>
-<td width="33%">
-
-## Strategy
-
-- Business vision
-- Digital roadmap
-- Operating model
-- Value proposition
-- Prioritization
-- Strategic alignment
-- Business architecture
-- Transformation portfolio
-
-</td>
-<td width="33%">
-
-## Execution
-
-- Product delivery
-- Agile teams
-- Process optimization
-- Technology implementation
-- Governance
-- Continuous improvement
-- Vendor coordination
-- Delivery control
-
-</td>
-<td width="33%">
-
-## Impact
-
-- Efficiency
-- Scalability
-- Customer experience
-- Revenue enablement
-- Risk reduction
-- Sustainable growth
-- Measurable outcomes
-- Competitive advantage
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧭 Modelo de trabajo
-
-<table>
-<tr>
-<td width="25%">
-
-## 1. Diagnóstico
-
-- Situación actual
-- Procesos
-- Tecnología
-- Brechas
-- Riesgos
-- Oportunidades
-
-</td>
-<td width="25%">
-
-## 2. Diseño
-
-- Arquitectura objetivo
-- Roadmap
-- Priorización
-- Modelo operativo
-- Solución funcional
-- Indicadores
-
-</td>
-<td width="25%">
-
-## 3. Implementación
-
-- Backlog
-- MVP
-- Integraciones
-- Automatización
-- Control de avance
-- Gestión del cambio
-
-</td>
-<td width="25%">
-
-## 4. Escalamiento
-
-- Mejora continua
-- Analítica
-- Optimización
-- Gobierno
-- Nuevos módulos
-- Crecimiento
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -591,9 +413,9 @@ Repositorio conceptual y práctico para arquitectura empresarial, modernización
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardincas1987&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardincas1987&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardincas1987&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardincas1987&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -619,158 +441,21 @@ Repositorio conceptual y práctico para arquitectura empresarial, modernización
 
 ---
 
-# 🎯 Áreas de interés
-
-- Fintech y pagos digitales
-- Open banking
-- Inteligencia artificial aplicada a negocios
-- Automatización empresarial
-- Arquitectura empresarial
-- SaaS B2B
-- Gobierno de TI
-- Transformación digital para pymes
-- Sostenibilidad, ESG y ODS
-- Modernización tecnológica
-- Experiencia de cliente
-- Innovación corporativa
-- Product management
-- Arquitectura cloud
-- Analítica empresarial
-- Ecosistemas digitales
-- Plataformas transaccionales
-- Modelos de negocio digitales
-- Canales digitales
-- Pagos embebidos
-- Data-driven business
-- AI agents for business
-- Digital operations
-- IT strategy
-
----
-
-# 🧭 Principios de trabajo
-
-- Entender primero el negocio antes de proponer tecnología.
-- Diseñar soluciones simples, escalables y sostenibles.
-- Priorizar impacto medible sobre complejidad innecesaria.
-- Conectar estrategia, ejecución y resultados.
-- Documentar, versionar y mejorar continuamente.
-- Aplicar tecnología con criterio empresarial.
-- Usar IA como acelerador de productividad, no como sustituto del pensamiento estratégico.
-- Trabajar con visión de arquitectura, operación y crecimiento.
-- Construir soluciones que puedan evolucionar en el tiempo.
-- Alinear tecnología, procesos y personas.
-- Medir el valor generado por cada iniciativa.
-- Diseñar con visión de sostenibilidad y escalabilidad.
-
----
-
-# 🗺️ Roadmap de portafolio GitHub
-
-## Fase 1: Presencia profesional
-
-- Perfil README de alto impacto.
-- Repositorios base documentados.
-- Descripción clara de proyectos estratégicos.
-- Enlaces profesionales activos.
-- Badges y estadísticas visibles.
-- Narrativa profesional consistente.
-
-## Fase 2: Repositorios estratégicos
-
-- colonial-mobility
-- edufacil-saas
-- solucionesparati
-- riom-consulting-site
-- digital-transformation-framework
-- ai-business-automation
-- enterprise-architecture-lab
-- fintech-payments-lab
-- business-architecture-playbook
-- saas-product-blueprint
-
-## Fase 3: Profundización técnica
-
-- Diagramas de arquitectura.
-- Documentación técnica.
-- Roadmaps de producto.
-- Backlogs funcionales.
-- Modelos de datos.
-- APIs documentadas.
-- Casos de uso de IA.
-- Plantillas de consultoría.
-- Historias de usuario.
-- Especificaciones funcionales.
-
-## Fase 4: Posicionamiento global
-
-- README bilingüe.
-- Artículos técnicos.
-- Casos de estudio.
-- Frameworks reutilizables.
-- Plantillas de consultoría.
-- Arquitecturas de referencia.
-- Repositorios con enfoque enterprise.
-- Documentación en español e inglés.
-
----
-
-# 📚 Repositorios recomendados para mi portafolio
+# 📚 Repositorios recomendados
 
 ```text
 colonial-mobility
 edufacil-saas
 solucionesparati
-riom-consulting-site
+consulting-riom-site
+bioadmin-digital-card
 digital-transformation-framework
 ai-business-automation
 enterprise-architecture-lab
 fintech-payments-lab
 business-architecture-playbook
 saas-product-blueprint
-ai-consulting-toolkit
-digital-business-roadmap
 ```
-
----
-
-# 🧱 Arquitectura conceptual de trabajo
-
-```text
-Business strategy
-      ↓
-Operating model
-      ↓
-Process architecture
-      ↓
-Technology architecture
-      ↓
-Data & AI layer
-      ↓
-Execution roadmap
-      ↓
-Business impact
-```
-
----
-
-# 🌍 Visión
-
-La tecnología por sí sola no transforma empresas.
-
-La verdadera transformación ocurre cuando:
-
-- la estrategia,
-- las personas,
-- los procesos,
-- los datos,
-- la tecnología,
-- la inteligencia artificial,
-- la ejecución,
-- el gobierno,
-- y la mejora continua
-
-trabajan de forma integrada hacia resultados medibles.
 
 ---
 
@@ -789,12 +474,9 @@ trabajan de forma integrada hacia resultados medibles.
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocastelom/)
-
-[![Website](https://img.shields.io/badge/Website-solucionesparati.ec-00A859?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ricardincas1987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardincas1987)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B593987241775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593987241775)
+[![Consulting RIOM](https://img.shields.io/badge/Consulting%20RIOM-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white)](https://consultingriom.com/)
+[![Soluciones Para Ti](https://img.shields.io/badge/Soluciones%20Para%20Ti-00A859?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/)
+[![BioAdmin](https://img.shields.io/badge/BioAdmin-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solucionesparati.ec/bioadmin-info.php)
 
 </div>
 
