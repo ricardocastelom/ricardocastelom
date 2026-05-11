@@ -8,22 +8,27 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 
 <br>
 
-<a href="https://www.linkedin.com/in/ricardocastelom/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ricardocastelom/" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://consultingriom.com/" target="_blank" rel="noopener noreferrer">
+
+<a href="https://consultingriom.com/" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Consulting%20RIOM-S.A.S.-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://solucionesparati.ec/" target="_blank" rel="noopener noreferrer">
+
+<a href="https://solucionesparati.ec/" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://solucionesparati.ec/bioadmin-info.php" target="_blank" rel="noopener noreferrer">
+
+<a href="https://solucionesparati.ec/bioadmin-info.php" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/BioAdmin-Digital%20Business%20Card-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://github.com/ricardincas1987" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-ricardincas1987-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<a href="https://github.com/ricardocastelom" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-ricardocastelom-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://wa.me/593987241775" target="_blank" rel="noopener noreferrer">
+
+<a href="https://wa.me/593987241775" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/WhatsApp-%2B593987241775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
@@ -195,7 +200,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## Consulting RIOM S.A.S.
 
-<a href="https://consultingriom.com/" target="_blank" rel="noopener noreferrer">Consulting RIOM S.A.S.</a> es una firma de consultoría orientada a modernización empresarial, transformación digital, innovación, arquitectura de negocio, tecnología, automatización e inteligencia artificial aplicada.
+<a href="https://consultingriom.com/" rel="noopener noreferrer">Consulting RIOM S.A.S.</a> es una firma de consultoría orientada a modernización empresarial, transformación digital, innovación, arquitectura de negocio, tecnología, automatización e inteligencia artificial aplicada.
 
 ### RIOM representa
 
@@ -222,7 +227,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## SolucionesParaTi
 
-<a href="https://solucionesparati.ec/" target="_blank" rel="noopener noreferrer">SolucionesParaTi</a> es una plataforma de servicios empresariales orientada a apoyar emprendedores, pymes y organizaciones que buscan profesionalizar, digitalizar y escalar su operación.
+<a href="https://solucionesparati.ec/" rel="noopener noreferrer">SolucionesParaTi</a> es una plataforma de servicios empresariales orientada a apoyar emprendedores, pymes y organizaciones que buscan profesionalizar, digitalizar y escalar su operación.
 
 ### Verticales de servicio
 
@@ -242,7 +247,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## BioAdmin
 
-<a href="https://solucionesparati.ec/bioadmin-info.php" target="_blank" rel="noopener noreferrer">BioAdmin</a> es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
+<a href="https://solucionesparati.ec/bioadmin-info.php" rel="noopener noreferrer">BioAdmin</a> es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
 
 ### Propósito
 
@@ -348,7 +353,7 @@ Ecosistema digital de servicios empresariales para pymes y organizaciones.
 
 ### Enlace
 
-<a href="https://solucionesparati.ec/" target="_blank" rel="noopener noreferrer">https://solucionesparati.ec/</a>
+https://solucionesparati.ec/
 
 ### Áreas principales
 
@@ -376,7 +381,7 @@ Plataforma de tarjeta digital empresarial y profesional orientada a mejorar la p
 
 ### Enlace
 
-<a href="https://solucionesparati.ec/bioadmin-info.php" target="_blank" rel="noopener noreferrer">https://solucionesparati.ec/bioadmin-info.php</a>
+https://solucionesparati.ec/bioadmin-info.php
 
 ---
 
@@ -448,16 +453,17 @@ Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y 
 
 ## Profile
 
-<a href="https://github.com/ricardincas1987?tab=repositories" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/ricardocastelom?tab=repositories">
 <img src="https://img.shields.io/badge/Public%20repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+
 <td align="center" width="50%">
 
 ## Activity
 
-<a href="https://github.com/ricardincas1987?tab=overview" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/ricardocastelom?tab=overview">
 <img src="https://img.shields.io/badge/GitHub%20activity-View%20profile-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -473,8 +479,8 @@ Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y 
 
 <div align="center">
 
-<a href="https://github.com/ricardincas1987" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardincas1987&theme=tokyo-night&hide_border=true" alt="Ricardo Castelo GitHub contribution graph" />
+<a href="https://github.com/ricardocastelom">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardocastelom&theme=tokyo-night&hide_border=true" alt="Ricardo Castelo GitHub contribution graph" />
 </a>
 
 </div>
@@ -485,8 +491,8 @@ Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y 
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-<img src="https://github-profile-trophy.vercel.app/?username=ricardincas1987&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ricardocastelom&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
 </a>
 
 </div>
@@ -525,16 +531,19 @@ saas-product-blueprint
 
 <br>
 
-<a href="https://www.linkedin.com/in/ricardocastelom/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ricardocastelom/">
 <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://consultingriom.com/" target="_blank" rel="noopener noreferrer">
+
+<a href="https://consultingriom.com/">
 <img src="https://img.shields.io/badge/Consulting%20RIOM-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://solucionesparati.ec/" target="_blank" rel="noopener noreferrer">
+
+<a href="https://solucionesparati.ec/">
 <img src="https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://solucionesparati.ec/bioadmin-info.php" target="_blank" rel="noopener noreferrer">
+
+<a href="https://solucionesparati.ec/bioadmin-info.php">
 <img src="https://img.shields.io/badge/BioAdmin-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
