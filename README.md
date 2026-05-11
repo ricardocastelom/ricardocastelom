@@ -31,6 +31,17 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 
 ---
 
+# 🌐 Quick links
+
+- 🔗 Consulting RIOM: https://consultingriom.com/
+- 🔗 SolucionesParaTi: https://solucionesparati.ec/
+- 🔗 BioAdmin: https://solucionesparati.ec/bioadmin-info.php
+- 🔗 LinkedIn: https://linkedin.com/in/ricardocastelom
+- 🔗 GitHub: https://github.com/ricardocastelom
+- 🔗 WhatsApp: https://wa.me/593987241775
+
+---
+
 # 🚀 Sobre mí
 
 Soy consultor senior en transformación digital, arquitectura empresarial, innovación tecnológica, producto digital, fintech, medios de pago, canales digitales, gobierno de TI y soluciones empresariales impulsadas por inteligencia artificial.
