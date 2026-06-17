@@ -39,8 +39,8 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 # 🌐 Quick links
 
 - 🔗 Consulting RIOM: https://consultingriom.com/
-- 🔗 SolucionesParaTi: https://solucionesparati.ec/
-- 🔗 BioAdmin: https://solucionesparati.ec/bioadmin-info.php
+- 🔗 SolucionesParaTi: https://www.solucionesparati.consultingriom.com/
+- 🔗 BioAdmin: https://www.solucionesparati.consultingriom.com/bioadmin-info
 - 🔗 LinkedIn: https://linkedin.com/in/ricardocastelom
 - 🔗 GitHub: https://github.com/ricardocastelom
 - 🔗 WhatsApp: https://wa.me/593987241775
