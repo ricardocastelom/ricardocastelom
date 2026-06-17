@@ -227,7 +227,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## SolucionesParaTi
 
-<a href="https://solucionesparati.ec/" rel="noopener noreferrer">SolucionesParaTi</a> es una plataforma de servicios empresariales orientada a apoyar emprendedores, pymes y organizaciones que buscan profesionalizar, digitalizar y escalar su operación.
+<a href="https://www.solucionesparati.consultingriom.com/" rel="noopener noreferrer">SolucionesParaTi</a> es una plataforma de servicios empresariales orientada a apoyar emprendedores, pymes y organizaciones que buscan profesionalizar, digitalizar y escalar su operación.
 
 ### Verticales de servicio
 
@@ -247,7 +247,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## BioAdmin
 
-<a href="https://solucionesparati.ec/bioadmin-info.php" rel="noopener noreferrer">BioAdmin</a> es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
+<a href="https://www.solucionesparati.consultingriom.com/bioadmin-info" rel="noopener noreferrer">BioAdmin</a> es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
 
 ### Propósito
 
@@ -539,11 +539,11 @@ saas-product-blueprint
 <img src="https://img.shields.io/badge/Consulting%20RIOM-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://solucionesparati.ec/">
+<a href="https://www.solucionesparati.consultingriom.com/">
 <img src="https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://solucionesparati.ec/bioadmin-info.php">
+<a href="https://www.solucionesparati.consultingriom.com/bioadmin-info">
 <img src="https://img.shields.io/badge/BioAdmin-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
