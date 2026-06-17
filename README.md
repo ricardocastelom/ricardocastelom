@@ -16,11 +16,11 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 <img src="https://img.shields.io/badge/Consulting%20RIOM-S.A.S.-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://solucionesparati.ec/" rel="noopener noreferrer">
+<a href="https://www.solucionesparati.consultingriom.com/" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://solucionesparati.ec/bioadmin-info.php" rel="noopener noreferrer">
+<a href="https://www.solucionesparati.consultingriom.com/bioadmin-info" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/BioAdmin-Digital%20Business%20Card-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
