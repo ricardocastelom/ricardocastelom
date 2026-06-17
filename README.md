@@ -353,7 +353,7 @@ Ecosistema digital de servicios empresariales para pymes y organizaciones.
 
 ### Enlace
 
-https://solucionesparati.ec/
+https://www.solucionesparati.consultingriom.com/
 
 ### Áreas principales
 
@@ -381,7 +381,7 @@ Plataforma de tarjeta digital empresarial y profesional orientada a mejorar la p
 
 ### Enlace
 
-https://solucionesparati.ec/bioadmin-info.php
+https://www.solucionesparati.consultingriom.com/bioadmin-info
 
 ---
 
