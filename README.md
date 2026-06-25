@@ -487,17 +487,6 @@ Espacio de análisis y diseño de soluciones relacionadas con pagos digitales y 
 
 ---
 
-# 🏆 GitHub trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=ricardocastelom&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
-</a>
-
-</div>
-
----
 
 # 📚 Repositorios recomendados
 
