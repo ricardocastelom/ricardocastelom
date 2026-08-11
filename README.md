@@ -20,7 +20,7 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 <img src="https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://www.solucionesparati.consultingriom.com/bioadmin-info" rel="noopener noreferrer">
+<a href="https://bioadmin.consultingriom.com/" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/BioAdmin-Digital%20Business%20Card-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -40,7 +40,7 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 
 - 🔗 Consulting RIOM: https://consultingriom.com/
 - 🔗 SolucionesParaTi: https://www.solucionesparati.consultingriom.com/
-- 🔗 BioAdmin: https://www.solucionesparati.consultingriom.com/bioadmin-info
+- 🔗 BioAdmin: https://bioadmin.consultingriom.com/
 - 🔗 LinkedIn: https://linkedin.com/in/ricardocastelom
 - 🔗 GitHub: https://github.com/ricardocastelom
 - 🔗 WhatsApp: https://wa.me/593987241775
@@ -247,7 +247,7 @@ Ayudo a empresas, pymes, instituciones financieras, startups y organizaciones en
 
 ## BioAdmin
 
-<a href="https://www.solucionesparati.consultingriom.com/bioadmin-info" rel="noopener noreferrer">BioAdmin</a> es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
+<a href="https://bioadmin.consultingriom.com/" rel="noopener noreferrer">BioAdmin</a> es una solución digital orientada a fortalecer la presencia profesional, comercial y empresarial mediante tarjetas digitales inteligentes.
 
 ### Propósito
 
@@ -381,7 +381,7 @@ Plataforma de tarjeta digital empresarial y profesional orientada a mejorar la p
 
 ### Enlace
 
-https://www.solucionesparati.consultingriom.com/bioadmin-info
+https://bioadmin.consultingriom.com/
 
 ---
 
@@ -532,7 +532,7 @@ saas-product-blueprint
 <img src="https://img.shields.io/badge/SolucionesParaTi-00A859?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://www.solucionesparati.consultingriom.com/bioadmin-info">
+<a href="https://bioadmin.consultingriom.com/">
 <img src="https://img.shields.io/badge/BioAdmin-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
