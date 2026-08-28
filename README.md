@@ -63,22 +63,29 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 <div align="center">
 
 <a href="https://instagram.com/ricardocastelom" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Instagram-@ricardocastelom-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-@ricardocastelom-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @ricardocastelom" />
 </a>
+
 <a href="https://tiktok.com/@ricardocastelom" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/TikTok-@ricardocastelom-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+<img src="https://img.shields.io/badge/TikTok-@ricardocastelom-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @ricardocastelom" />
 </a>
+
 <a href="https://facebook.com/ricardocastelom" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Facebook-ricardocastelom-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+<img src="https://img.shields.io/badge/Facebook-ricardocastelom-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook ricardocastelom" />
 </a>
+
+<br>
+
 <a href="https://linkedin.com/in/ricardocastelom" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-ricardocastelom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-ricardocastelom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn ricardocastelom" />
 </a>
+
 <a href="https://threads.net/@ricardocastelom" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Threads-@ricardocastelom-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+<img src="https://img.shields.io/badge/Threads-@ricardocastelom-5F5F5F?style=for-the-badge&logo=threads&logoColor=white" alt="Threads @ricardocastelom" />
 </a>
+
 <a href="https://twitter.com/ricardo_castelo" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/X-@ricardo__castelo-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+<img src="https://img.shields.io/badge/X-@ricardo__castelo-4A4A4A?style=for-the-badge&logo=x&logoColor=white" alt="X @ricardo_castelo" />
 </a>
 
 </div>
@@ -996,35 +1003,48 @@ trabajan de forma integrada hacia resultados medibles.
 
 <br>
 
-<a href="https://www.linkedin.com/in/ricardocastelom/">
-<img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/ricardocastelom/" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ricardo Castelo" />
 </a>
-<a href="https://consultingriom.com/ricardocastelom/">
-<img src="https://img.shields.io/badge/Portfolio-Ricardo%20Castelo-5C2D91?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Ricardo Castelo" />
+
+<a href="https://consultingriom.com/ricardocastelom/" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-Ricardo%20Castelo-5C2D91?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Ricardo Castelo" />
 </a>
-<a href="https://consultingriom.com/">
-<img src="https://img.shields.io/badge/Consulting%20RIOM-0A2540?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Consulting RIOM" />
+
+<a href="https://consultingriom.com/" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Consulting%20RIOM-S.A.S.-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Consulting RIOM S.A.S." />
 </a>
-<a href="https://github.com/ricardocastelom">
-<img src="https://img.shields.io/badge/GitHub-ricardocastelom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+<a href="https://github.com/ricardocastelom" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-ricardocastelom-444444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ricardocastelom" />
 </a>
 
 <br><br>
 
-<a href="https://instagram.com/ricardocastelom">
-<img src="https://img.shields.io/badge/Instagram-@ricardocastelom-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://instagram.com/ricardocastelom" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Instagram-@ricardocastelom-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @ricardocastelom" />
 </a>
-<a href="https://tiktok.com/@ricardocastelom">
-<img src="https://img.shields.io/badge/TikTok-@ricardocastelom-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+
+<a href="https://tiktok.com/@ricardocastelom" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/TikTok-@ricardocastelom-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @ricardocastelom" />
 </a>
-<a href="https://facebook.com/ricardocastelom">
-<img src="https://img.shields.io/badge/Facebook-ricardocastelom-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+
+<a href="https://facebook.com/ricardocastelom" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Facebook-ricardocastelom-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook ricardocastelom" />
 </a>
-<a href="https://threads.net/@ricardocastelom">
-<img src="https://img.shields.io/badge/Threads-@ricardocastelom-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads" />
+
+<br>
+
+<a href="https://linkedin.com/in/ricardocastelom" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-@ricardocastelom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn ricardocastelom" />
 </a>
-<a href="https://twitter.com/ricardo_castelo">
-<img src="https://img.shields.io/badge/X-@ricardo__castelo-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+
+<a href="https://threads.net/@ricardocastelom" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Threads-@ricardocastelom-5F5F5F?style=for-the-badge&logo=threads&logoColor=white" alt="Threads @ricardocastelom" />
+</a>
+
+<a href="https://twitter.com/ricardo_castelo" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/X-@ricardo__castelo-4A4A4A?style=for-the-badge&logo=x&logoColor=white" alt="X @ricardo_castelo" />
 </a>
 
 </div>
