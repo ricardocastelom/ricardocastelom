@@ -55,7 +55,7 @@ Ingeniero en Informática y consultor senior con experiencia en transformación 
 **Evidencia técnica disponible**
 - [ProposalFlow Elements Studio](https://github.com/ricardocastelom/proposalflow-elements-studio): proyecto público de Product Engineering con React, TypeScript, Vite, pruebas y scripts de validación.
 - [WhatsAppAnalisis](https://github.com/ricardocastelom/WhatsAppAnalisis): notebook público de análisis de datos con Python; documentación técnica en proceso de fortalecimiento.
-- **Saturdays AI Quito (2026):** programa finalizado de 60 horas en Machine Learning e IA Generativa, con presentación del proyecto académico **ROSES** (*Simulación del Entorno del Sistema Óptimo para Rosas*). Repositorio técnico público: pendiente de publicación.
+- **Saturdays AI Quito (2026):** programa finalizado de 60 horas en Machine Learning e IA Generativa, con presentación del proyecto académico **ROSES** (*Simulación del Entorno del Sistema Óptimo para Rosas*). Proyecto educativo desarrollado como parte del programa; documentación y publicación del proyecto en proceso.
 
 > **Criterio de evidencia:** la experiencia de liderazgo, la formación certificada y el desarrollo de software se presentan de forma diferenciada. El código, las tecnologías y las contribuciones se atribuyen únicamente cuando existe respaldo verificable.
 
