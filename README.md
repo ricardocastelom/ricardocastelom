@@ -6,7 +6,8 @@
 
 Consultor senior con más de 16 años de experiencia conectando estrategia, procesos, tecnología, datos e inteligencia artificial para transformar negocios, modernizar operaciones y generar resultados medibles.
 
-**Portafolio profesional interactivo:** https://ricardo.consultingriom.com/
+**Portafolio profesional interactivo:** https://ricardo.consultingriom.com/  
+**Perfil digital BioAdmin:** https://consultingriom.com/ricardocastelom/
 
 <br>
 
@@ -69,7 +70,8 @@ Ingeniero en Informática y consultor senior con experiencia en transformación 
 
 | Recurso | Acceso |
 |---|---|
-| 👤 Portafolio profesional | https://ricardo.consultingriom.com/ |
+| 👤 Portafolio profesional interactivo | https://ricardo.consultingriom.com/ |
+| 🪪 Perfil digital BioAdmin | https://consultingriom.com/ricardocastelom/ |
 | 🏢 Consulting RIOM | https://consultingriom.com/ |
 | 🌐 SolucionesParaTi | https://www.solucionesparati.consultingriom.com/ |
 | 💳 BioAdmin | https://bioadmin.consultingriom.com/ |
@@ -279,7 +281,8 @@ Esta sección unifica el ecosistema empresarial, los activos digitales públicos
 
 **Enfoque:** Tarjeta digital · Perfil profesional · Contacto · Redes sociales · WhatsApp · Mobile-first · Networking
 
-**Acceso:** https://bioadmin.consultingriom.com/
+**Plataforma BioAdmin:** https://bioadmin.consultingriom.com/  
+**Mi perfil digital:** https://consultingriom.com/ricardocastelom/
 
 </td>
 </tr>
