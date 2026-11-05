@@ -40,6 +40,27 @@ Consultor senior con más de 16 años de experiencia conectando estrategia, proc
 
 ---
 
+## 🔬 Especialización técnica | Technical Specialization
+
+**Digital Transformation & AI Solutions | Product Engineering | Data & Automation**
+
+Ingeniero en Informática y consultor senior con experiencia en transformación digital, arquitectura empresarial, productos digitales y modernización tecnológica. Mi especialización conecta la identificación de problemas de negocio con el diseño, la coordinación y la evolución de soluciones que integran **datos, automatización, inteligencia artificial y plataformas digitales**.
+
+**Áreas de aplicación**
+- **AI & Data Solutions:** IA aplicada al negocio, analítica de datos, integración de capacidades de datos y automatización de procesos.
+- **Product Engineering:** diseño y evolución de productos digitales, aplicaciones web, flujos de trabajo y soluciones SaaS.
+- **Solution & Enterprise Architecture:** arquitectura empresarial y de soluciones, integración negocio–tecnología, roadmaps y gobierno tecnológico.
+- **Quality & Delivery:** metodologías ágiles, prácticas de validación, pruebas y mejora continua.
+
+**Evidencia técnica disponible**
+- [ProposalFlow Elements Studio](https://github.com/ricardocastelom/proposalflow-elements-studio): proyecto público de Product Engineering con React, TypeScript, Vite, pruebas y scripts de validación.
+- [WhatsAppAnalisis](https://github.com/ricardocastelom/WhatsAppAnalisis): notebook público de análisis de datos con Python; documentación técnica en proceso de fortalecimiento.
+- **Saturdays AI Quito (2026):** programa finalizado de 60 horas en Machine Learning e IA Generativa, con presentación del proyecto académico **ROSES** (*Simulación del Entorno del Sistema Óptimo para Rosas*). Repositorio técnico público: pendiente de publicación.
+
+> **Criterio de evidencia:** la experiencia de liderazgo, la formación certificada y el desarrollo de software se presentan de forma diferenciada. El código, las tecnologías y las contribuciones se atribuyen únicamente cuando existe respaldo verificable.
+
+---
+
 # 🌐 Quick links
 
 <div align="center">
