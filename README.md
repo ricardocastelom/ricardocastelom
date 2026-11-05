@@ -6,13 +6,15 @@
 
 Consultor senior con más de 16 años de experiencia conectando estrategia, procesos, tecnología, datos e inteligencia artificial para transformar negocios, modernizar operaciones y generar resultados medibles.
 
+**Portafolio profesional interactivo:** https://ricardo.consultingriom.com/
+
 <br>
 
 <a href="https://www.linkedin.com/in/ricardocastelom/" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ricardo Castelo" />
 </a>
 
-<a href="https://consultingriom.com/ricardocastelom/" rel="noopener noreferrer">
+<a href="https://ricardo.consultingriom.com/" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-Ricardo%20Castelo-5C2D91?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Ricardo Castelo" />
 </a>
 
@@ -67,7 +69,7 @@ Ingeniero en Informática y consultor senior con experiencia en transformación 
 
 | Recurso | Acceso |
 |---|---|
-| 👤 Portafolio profesional | https://consultingriom.com/ricardocastelom/ |
+| 👤 Portafolio profesional | https://ricardo.consultingriom.com/ |
 | 🏢 Consulting RIOM | https://consultingriom.com/ |
 | 🌐 SolucionesParaTi | https://www.solucionesparati.consultingriom.com/ |
 | 💳 BioAdmin | https://bioadmin.consultingriom.com/ |
@@ -241,7 +243,7 @@ Esta sección unifica el ecosistema empresarial, los activos digitales públicos
 
 **Enfoque:** Transformación Digital · Business Architecture · Product Innovation · AI-Driven Solutions · Fintech · Tecnología
 
-**Acceso:** https://consultingriom.com/ricardocastelom/
+**Acceso:** https://ricardo.consultingriom.com/
 
 </td>
 <td width="50%" valign="top">
@@ -1028,7 +1030,7 @@ trabajan de forma integrada hacia resultados medibles.
 <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Castelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ricardo Castelo" />
 </a>
 
-<a href="https://consultingriom.com/ricardocastelom/" rel="noopener noreferrer">
+<a href="https://ricardo.consultingriom.com/" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-Ricardo%20Castelo-5C2D91?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Ricardo Castelo" />
 </a>
 
